@@ -18,10 +18,12 @@
 - Le nom et prénom du réalisateur qui a réalisé le plus de film
 - Créer un trigger, une procédure et un évent de votre choix.  
 
-## Création d'un MLD avec workbench depuis l'image suivante  
+## réaliser un MLD avec workbench depuis l'image suivante  
 
-![MCD](./mcd.gif)
-![MLD](./ScreenMLD.png)
+![MCD](./mcd.gif)  
+
+
+![MLD](./ScreenMLD.png)  
 
 ## Divers  
 
