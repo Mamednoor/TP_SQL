@@ -21,7 +21,7 @@
 ## Création d'un MLD avec workbench depuis l'image suivante  
 
 ![MCD](./mcd.gif)
-![MLD](./ScreenMLD.gif)
+![MLD](./ScreenMLD.png)
 
 ## Divers  
 
