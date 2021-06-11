@@ -91,7 +91,7 @@ select any_value(realisateur.nom), any_value(realisateur.prenom), count(film.idr
 from realisateur
 natural left join film
 group by realisateur.nom
-order by nbr_de_film desc
+order by nbr_de_film desc limit 4;
 
 -- Créer un trigger, une procédure et un évent de votre choix.
 
