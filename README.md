@@ -19,10 +19,10 @@
 - Créer un trigger, une procédure et un évent de votre choix.  
 
 ## réaliser un MLD avec workbench depuis l'image suivante  
-
+- MCD
 ![MCD](./mcd.gif)  
 
-
+- MLD
 ![MLD](./ScreenMLD.png)  
 
 ## Divers  
