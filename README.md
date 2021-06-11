@@ -2,7 +2,7 @@
 ## se referer à la base de donnée db_cinema.sql
 
 - Requête qui liste les enregistrements de tous les informations de la liste des films
-- Requêtes qui affiche le nombre d’abonnés
+- Requête qui affiche le nombre d’abonnés
 - Requête qui liste les prénoms des réalisateurs par ordre alphabétique
 - Requête qui affiche le nom, prénom du real, le nom prénom de l’acteur principal et le titre du film de chaque film
 - Requête qui affiche la moyenne de tous les films
@@ -11,7 +11,7 @@
 - Requête qui affiche le nom et prénom des abonnées qui ont vu aucun film
 - Requête qui affiche les films qui ont la meilleure note
 - Requête qui donne le film qui a la moins bonne note
-- Requêtes qui affichent les films qui ont une plus grande note que la moyenne des notes films
+- Requête qui affichent les films qui ont une plus grande note que la moyenne des notes films
 - Requête qui pour chaque acteur nous donne le nombre de film où il a joué
 - Le nom et prénom et le nombre de film de l’acteur qui a joué dans le plus de film
 - Le nom et prénom et le nombre de film de l’abonné qui a vu le plus de film
