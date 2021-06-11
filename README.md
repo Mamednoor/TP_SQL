@@ -24,6 +24,6 @@
 
 ## Divers  
 
-- La base de donnée servant au requête se trouve dans le dossier db  
+- La base de donnée qui sera utilisé pour les différentes requêtes se trouve dans le dossier db  
 - Les différentes requêtes sont écrite dans scriptSQL.sql  
 - Le MLD est crée dans le fichier Magasin.mwb  
